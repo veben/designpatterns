@@ -7,13 +7,13 @@
     <parent>
         <artifactId>designpatterns</artifactId>
         <groupId>com.veben</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
     </parent>
 
     <artifactId>builder</artifactId>
 
     <properties>
-        <java.version>11</java.version>
+        <java.version>13</java.version>
         <lombok.version>1.18.10</lombok.version>
     </properties>
 
@@ -24,8 +24,8 @@
             <scope>test</scope>
             <exclusions>
                 <exclusion>
-                    <groupId>junit</groupId>
-                    <artifactId>junit</artifactId>
+                    <groupId>org.junit.vintage</groupId>
+                    <artifactId>junit-vintage-engine</artifactId>
                 </exclusion>
             </exclusions>
         </dependency>

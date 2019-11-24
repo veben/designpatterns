@@ -4,17 +4,17 @@ Design patterns represent formalized best practices that can be used to solve co
 
 ## Creational Design Patterns
 - Abstract factory
->Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
+> Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
 - Builder
->Separate the construction of a complex object from its representation, allowing the same construction process to create various representations.
+> Separate the construction of a complex object from its representation, allowing the same construction process to create various representations.
 - Dependency Injection
->A class accepts the objects it requires from an injector instead of creating the objects directly.
+> A class accepts the objects it requires from an injector instead of creating the objects directly.
 - Factory method
->Define an interface for creating a single object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
+> Define an interface for creating a single object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
 ## Structural Design Patterns
 - Decorator
->Attach additional responsibilities to an object dynamically keeping the same interface. Decorators provide a flexible alternative to subclassing for extending functionality.
+> Attach additional responsibilities to an object dynamically keeping the same interface. Decorators provide a flexible alternative to subclassing for extending functionality.
 
 ## Behavioral Design Patterns
 
