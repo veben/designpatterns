@@ -1,8 +1,8 @@
 ## Builder
 
 ### Description
->Builder pattern designed to deal with the construction of comparatively complex objects.
->Specially when it can be built with many parameters, in multiple combinations
+> Builder pattern is designed to deal with the construction of comparatively complex objects.
+> Specially when it can be built with many parameters, in multiple combinations
 
 ### Example diagram
 ![](images/Builder.png)

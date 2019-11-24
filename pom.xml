@@ -22,6 +22,7 @@
     <modules>
         <module>decorator</module>
         <module>builder</module>
+        <module>factory-method</module>
     </modules>
 
 </project>
